@@ -70,8 +70,5 @@ If you run a validator node on Solana, you have the ability to monitor and proce
 This feature is particularly useful in copy trading bots, where transactions from successful traders are mirrored instantly, ensuring you never miss an opportunity in the fast-moving Solana ecosystem. 🚀
 
 # 👤 Author
-### Telegram: [Vladmeer](https://t.me/vladmeer67)   
-https://t.me/vladmeer67
-
-### Twitter: [Vladmeer](https://x.com/vladmeer67)   
-https://x.com/vladmeer67
+### Telegram: [Vladmeer](https://t.me/gravityoftheearth)   
+https://t.me/gravityoftheearth
